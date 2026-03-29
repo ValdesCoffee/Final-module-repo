@@ -39,7 +39,7 @@
 |--------------- |---------------|----------------------------------------------------|
 
 ```
-<<<<<<< HEAD
+
 #### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
 
 ### ¿Como se veria aplicado esto en un ejercicio?
@@ -59,4 +59,3 @@ else:
 ```
 =======
 ##### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
->>>>>>> 854da75d7c7484c0accc3932c836d480d7be838c
