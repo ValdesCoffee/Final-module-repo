@@ -1,4 +1,4 @@
-ngianingnqgingiqni## 𐙚 ‧₊˚ ⋅ Operadores de datos y tipos de variables en python 
+𐙚 ‧₊˚ ⋅ Operadores de datos y tipos de variables en python 
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა  
 #### Un operador es un caracter que representa una operacíon. Un grupo de operadores que usan Python son los operadores aritmeticos. Su significado, representacion y uso se presenta a continuación.
