@@ -1,7 +1,7 @@
 ## 𐙚 ‧₊˚ ⋅ Operadores de datos y tipos de variables en python 
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა  
-Un operador es un caracter que representa una operacíon. Un grupo de operadores que usan Python son los operadores aritmeticos. Su significado, representacion y uso se presenta a continuación.
+#### Un operador es un caracter que representa una operacíon. Un grupo de operadores que usan Python son los operadores aritmeticos. Su significado, representacion y uso se presenta a continuación.
 ---
 
 ## 𐙚 ‧ Tipos de operadores 
@@ -19,3 +19,26 @@ Un operador es un caracter que representa una operacíon. Un grupo de operadores
 |                |               | a una potencia                                     |
 ---------------------------------------------------------------------------------------
 ```
+## 𐙚 ‧ Tipos de datos
+#### En este lenguahe de programación reconoce que tipo de dato puede almacenar dicha los principales datos son.
+```python
+
+| Tipo           | Signo         | Uso                                                | 
+|--------------  |---------------|----------------------------------------------------|
+|Entero          | int           | Numero sin punto decimal  corto                    |
+| corto          |               |  Ejemplo: 45                                       |
+|--------------- |---------------|----------------------------------------------------|
+|Entero          | int           |Numero sin punto decimal, más grande                |
+|largo           |               |   Ejemplo: 45678                                   |
+|--------------- |---------------|----------------------------------------------------|
+|Reales          | float         |Numerp con un punto decimal                         |
+|                |               |   Ejemplo: 36.42                                   |
+|--------------- |---------------|----------------------------------------------------|
+|Cadenas         | str           |Cojunto de caracteres                               |
+|                |               |   Ejemplo: "Hola                                   |
+|--------------- |---------------|----------------------------------------------------|
+
+```
+#### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
+
+#### ¿?
