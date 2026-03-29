@@ -39,6 +39,4 @@
 |--------------- |---------------|----------------------------------------------------|
 
 ```
-#### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
-
-#### ¿?
+##### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
