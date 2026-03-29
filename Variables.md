@@ -41,4 +41,18 @@
 ```
 #### Esta instrucción va acompañada de un tipo de dato (Como los que se encuentran) en la columna identificador Python de la tabla inmediatamente anterior y de un titulo que es el que aparece para indicarle al usuario que escriba lo que le solicitamos.
 
-#### ¿?
+### ¿Como se veria aplicado esto en un ejercicio?
+###### *Objetivo:* Construir un programa que lea un numero entero y determine si es un numero par.
+```python
+numero = int(input("Ingresa un número: "))
+# Primero defines una variable tipo entero corto
+if numero % 2 == 0:
+    print("El número es Par")
+# Utilizas una condicion con la variable antes definida
+# y utilizas la modulo que busca el residuo de esa variable
+ 
+# y si su residuo es = 0 es PAR
+else:
+    print("El número es Impar")
+# y si deja residuo es IMPAR
+```
