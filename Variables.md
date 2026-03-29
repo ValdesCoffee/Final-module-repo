@@ -30,3 +30,5 @@
 |Entero          | int           |Numero sin punto decimal, más grande                |
 |largo           |               |   Ejemplo: 45678                                   |
 |--------------- |---------------|----------------------------------------------------|
+
+jajg9gh9joqng80jbij avinvi0h
