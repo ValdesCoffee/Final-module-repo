@@ -35,3 +35,24 @@ else:
 ###### -**Lógicos:** Puedes combinar condiciones usando and (y), or (o) y not (no/negación)
 ###### -**Encadenamiento:** Python permite escribir condiciones de forma matemática directa, por ejemplo: if 18 <= edad < 35:
 ###### -**Operador Ternario:** Existe una forma compacta de escribir un if-else en una sola línea: valor = A if condicion else B
+
+```python
+Aca van algunos ejercicios aplicables de este concepto
+'''Construye un programa que lea un numero entero y determine si
+el resultado de sumar sus dos ultimos 
+es un numero de 1 digito'''
+number = int(input("Put a number: "))
+# intentando separar el digito
+lastnumber= number % 100
+# Ahora hay que separar los digitos
+digit1 = lastnumber % 10
+digit2 = lastnumber // 10
+## ahora se pone la suma 
+adition = digit1 + digit2
+
+if adition <= 10:
+     print("Your last digit plus your penultimate digit is shorter than 10")
+else:
+     print("Your last digit plus your penultimate digit is bigger than 10")
+
+```
