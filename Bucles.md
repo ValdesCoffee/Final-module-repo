@@ -8,3 +8,21 @@
 
 ### Uso del While
 ##### La sentencia **while** repite un bloque de código **mientras una condición sea verdadera**. Se utiliza cuando **no puedes predecir** cuántas veces se repetirá la acción. Es fundamental que el código interno modifique la variable evaluada para que la condición sea falsa en algún momento y así **evitar un bucle infinito** que bloquee tu programa.
+#### **Uso practico del FOR**
+```python
+#Por ejemplo esta sentencia utilizando un for
+from time import sleep
+for i in range (0, 10, 1):
+    print(i+1)
+    sleep(0.5)
+```
+#### **Uso practico del While**
+```python
+#contar de 1 al 10.
+from time import sleep
+i=1
+while i < 10:
+    print(i)
+    i=i+1
+    sleep(0.5)
+```
